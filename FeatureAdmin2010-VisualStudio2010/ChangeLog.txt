@@ -42,6 +42,6 @@ Fix erroneous exception during ForceUninstallFeatureDefinition
 
 ** Feb 10, 2016 - RELEASE 2.4.6: "FeatureAdmin for SharePoint 2010 - v2.4.6" **
 
-Feb, 2016 -- Perry
+Feb, 2016 - Perry
 Add todo.txt
 Fixed ChangeLog (this) to be chronological from top to bottom
